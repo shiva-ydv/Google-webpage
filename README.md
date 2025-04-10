@@ -10,7 +10,6 @@ A responsive  of the Google homepage built with HTML and CSS.
 - Functional search bar (frontend only)
 - Responsive layout that works on different screen sizes
 - Google logo and icon replicas
-- Navigation bar with links (mimicking the real Google interface)
 
 ## Technologies Used
 
