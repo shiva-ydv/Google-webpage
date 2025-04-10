@@ -2,7 +2,7 @@
 
 A responsive  of the Google homepage built with HTML and CSS.
 
-![My website link](https://127.0.0.1:5500/)
+![My website link](file:///C:/Users/shiva/OneDrive/Desktop/Class%20Room/index.html)
 
 ## Features
 
