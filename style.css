@@ -1,0 +1,60 @@
+*{margin: 0;
+padding: 0;
+color: white;
+}
+
+#nav {
+    background-color: black;
+    height: 70px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 650;
+    display:flex;
+    align-items: center;
+    gap: 30px;
+    padding-left: 30px;
+}
+
+#footer {
+    background-color: black;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content:end;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 8px 16px;
+    border:none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#text {
+    text-align: center;
+    padding: 8px;
+    width: 300px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    margin: 20px 0; /* Adds some vertical spacing */
+}
+
