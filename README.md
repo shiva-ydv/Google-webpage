@@ -2,7 +2,7 @@
 
 A responsive  of the Google homepage built with HTML and CSS.
 
-![My website link](http://127.0.0.1:5500/)
+![My website link](https://127.0.0.1:5500/)
 
 ## Features
 
